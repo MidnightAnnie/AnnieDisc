@@ -1,16 +1,12 @@
 # AnnieDisc
 Discord Video Crash
 
-How its done.
+## How its done.
 
 Drag and drop the Video onto either the bat or the .exe whatever you decide to get.
+Just make sure you put in the [Correct time format](https://i.imgur.com/S5BHdms.png) when it asks
 
-Just make sure you put in the correct time format when it asks
-
-00:00:00
-H:M:S
-
-What it does.
+## What it does.
 
 split the video into two parts, The split is when it will crash.
 
