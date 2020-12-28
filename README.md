@@ -14,6 +14,7 @@ then encode one video with yuv420p while the other with yuv444p.
 
 Then its pretty much done merge both files with concat and done.
 
-You could grab the bat file and get ffmpeg and do it like that
+## FYI
+ If you gonna use the bat version make sure you put [ffmpeg](https://ffmpeg.org/) in the same dir and the bat
 
-or get the .exe that has it all in one
+As for the exe its all good ffmpeg is built into it
