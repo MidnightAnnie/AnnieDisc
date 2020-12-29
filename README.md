@@ -5,6 +5,7 @@ Discord Video Crash
 
 Drag and drop the Video onto either the bat or the .exe whatever you decide to get.
 Just make sure you put in the [Correct time format](https://i.imgur.com/S5BHdms.png) when it asks
+I used a software called [Bat to exe converter](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html) to embed [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) to make it simple but becuase of that some AV flag it.
 
 ## What it does.
 
