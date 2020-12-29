@@ -4,6 +4,8 @@ I originaly made this just for myslef and friends but i had to much fun making i
 ## peoples concerns
 
 I used a software called [Bat to exe converter](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html) to embed [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) to make it simple but becuase of that some AV flag it. (if you know a better way plz tell me So I can update it) <3
+[Embed settings](https://i.imgur.com/WYOWiOD.png)
+[Whats embeded](https://i.imgur.com/x5kq0R7.png)
 
 ## How you use it.
 
