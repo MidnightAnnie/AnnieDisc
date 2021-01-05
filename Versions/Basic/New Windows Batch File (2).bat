@@ -1,1 +1,0 @@
-ffmpeg -v quiet -y -i 1.mov -vcodec copy -acodec copy -ss 00:00:00 -t 00:15:00 -sn Annie1.mp4
