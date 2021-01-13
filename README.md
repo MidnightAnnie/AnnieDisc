@@ -9,8 +9,10 @@ I used a software called [Bat to exe converter](https://www.majorgeeks.com/files
 
 ## How you use it.
 
-Drag and drop the Video onto either the bat or the .exe whatever you decide to get.
+Drag and drop the Video or gif onto exe.
+Select one of options to edit the video or just skip it all and goto to the fun.
 Just make sure you put in the [Correct time format](https://i.imgur.com/S5BHdms.png) when it asks
+If you edit the video using options 1 or 2 please make sure you select option 4 once your done
 
 ## What it does.
 
